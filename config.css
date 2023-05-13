@@ -1,0 +1,6 @@
+:root {           /* R, G, B */
+    --text_color: 255, 255, 255;
+    --text2_color: 255, 140, 0;
+    --color_light: 255, 140, 0;
+    --color_dark: 200, 80, 0;
+}
